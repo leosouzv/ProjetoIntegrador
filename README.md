@@ -24,6 +24,8 @@ a sair de uma situação de aluguel ou pobreza.
 
 *ODS - Objetivo de Desenvolvimento Sustentável*
 
-*Link do nosso projeto hospedado no site Heroku - https://projetocaiv.herokuapp.com/*
+*Link do backend do nosso projeto hospedado no site Heroku - https://projetocaiv.herokuapp.com/*
+*Link do frontend do nosso projeto hospedado no site Netlify - https://caiv.netlify.app/#/home*
+
 
 *Documentação do nosso projeto - [Documentação CAIV.pdf](https://github.com/RafaelBalbino/ProjetoIntegrador/files/8708649/Documentacao.CAIV.pdf)*
